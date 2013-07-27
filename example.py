@@ -2,7 +2,7 @@
 
 import piano
 
-piano.ModuleFinder.install()
+piano.install()
 import testmodule
 
 testmodule.calc_averages([1, 2, 3])
